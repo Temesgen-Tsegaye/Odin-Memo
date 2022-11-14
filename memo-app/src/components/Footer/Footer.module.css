@@ -1,0 +1,26 @@
+.footer {
+    height: 2.5rem;
+  
+    
+    background-color: rgba(2, 2, 2, 0.9);
+    display: flex;
+    justify-content: center;
+    gap: 1vw;
+    align-items:baseline;
+    padding-top:0.5rem
+     
+   
+  }
+  .footer>p{
+      height: 50%;
+    font-size: 1rem;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+  }
+  .git {
+    color: white;
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+  

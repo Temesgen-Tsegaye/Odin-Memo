@@ -1,0 +1,133 @@
+.Body{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    justify-content: center;
+    padding: 2.5rem;
+    background-image: linear-gradient(180deg, red, yellow);
+    min-height:100vh;
+    margin-top: 5rem;
+}
+.image{
+    width:20vw;
+    height: 20vw;
+    border-radius: 4px;
+    box-shadow: 5px 5px rgba(0, 0, 0,0.5);
+    background-color: white;
+    /* animation: name duration timing-function delay iteration-count direction fill-mode;
+    animation: image 0.5s linear  1 normal forwards; */
+}
+
+@keyframes image {
+    0%{
+        transform: scale(0) ;
+        
+
+
+    }
+    50%{
+        transform: scale(0.7) 
+
+    }
+    70%{
+        transform: scale(0.4)
+    }
+    100%{
+        transform: scale(1) 
+        
+    }
+    
+}
+
+.loss{
+    width: 20rem;
+    height: 10rem;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+    box-shadow: 5px 5px rgba(19, 11, 11,0.5);
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+    animation: loss 0.8s linear 0s 1 normal forwards;
+    
+
+}
+
+@keyframes loss {
+    from{
+        transform: rotate(0deg) scale(0);
+    }
+    to{
+        transform: rotate(360deg) scale(1);
+    }
+}
+.loss>p{
+    font-size: 1.5rem;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    background-color: black;
+    border-radius: 4px;
+    width: 8rem;
+
+}
+.loss>button{
+    width: 8rem;
+    height: 2rem;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-style: italic;
+    padding: 0.3rem;
+    border-style: none;
+
+}
+.next{
+    width: 20rem;
+    height: 10rem;
+    border-radius: 4px;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+    box-shadow: 5px 5px rgba(19, 11, 11,0.5);
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+    animation: next 0.8s linear 0s 1 normal forwards;
+}
+.next>p{
+    font-size: 1.5rem;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    background-color: black;
+    border-radius: 4px;
+    width: 8rem;
+}
+.next>button{
+    width: 8rem;
+    height: 2rem;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-style: italic;
+    padding: 0.3rem;
+    border-style: none;
+}
+@keyframes next {
+    from{
+        transform: rotate(0deg) scale(0);
+    }
+    to{
+        transform: rotate(360deg) scale(1);
+    }
+}
