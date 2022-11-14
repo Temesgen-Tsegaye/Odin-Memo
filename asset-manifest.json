@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Odin-Memo/static/css/main.a2b9407b.css",
+    "main.js": "/Odin-Memo/static/js/main.f369995d.js",
+    "static/media/e.png": "/Odin-Memo/static/media/e.7fe80185de2ec06519d0.png",
+    "static/media/c.png": "/Odin-Memo/static/media/c.eaea24d9f9c2b9b008c1.png",
+    "static/media/f.png": "/Odin-Memo/static/media/f.40021c3eb4b162a31f18.png",
+    "static/media/h.jpg": "/Odin-Memo/static/media/h.d35b7fb2deb09472948d.jpg",
+    "static/media/za.jpg": "/Odin-Memo/static/media/za.5a3da4f8ae5ec74ba20a.jpg",
+    "static/media/j.jpg": "/Odin-Memo/static/media/j.37032b9e90d3abf078c2.jpg",
+    "static/media/i.jpg": "/Odin-Memo/static/media/i.d35105f5980b7b478d4b.jpg",
+    "static/media/d.png": "/Odin-Memo/static/media/d.ffae77e99a59d589c215.png",
+    "static/media/a.png": "/Odin-Memo/static/media/a.a56ae9ac4b74b39728ef.png",
+    "static/media/g.jpg": "/Odin-Memo/static/media/g.27b5c91d5dfc47b9b294.jpg",
+    "static/media/q.jpg": "/Odin-Memo/static/media/q.c07379d0b7bd40e5b8e7.jpg",
+    "static/media/o.jpg": "/Odin-Memo/static/media/o.b1cafec59812849d1139.jpg",
+    "static/media/p.jpg": "/Odin-Memo/static/media/p.ff9cb3ba9a876c9e80f1.jpg",
+    "static/media/n.jpg": "/Odin-Memo/static/media/n.970a633d42992e06ffe4.jpg",
+    "static/media/l.jpg": "/Odin-Memo/static/media/l.58a99078d5e223828968.jpg",
+    "static/media/k.jpg": "/Odin-Memo/static/media/k.e7505925878c11b3d37f.jpg",
+    "static/media/b.png": "/Odin-Memo/static/media/b.e04ea244da91de0bd800.png",
+    "static/media/m.jpg": "/Odin-Memo/static/media/m.e48495199640e5e71891.jpg",
+    "static/media/zb.jpg": "/Odin-Memo/static/media/zb.19f64c28f51f33a5cc45.jpg",
+    "static/media/ze.jpg": "/Odin-Memo/static/media/ze.f582ea607f4fd84d7b9a.jpg",
+    "static/media/zp.jpg": "/Odin-Memo/static/media/zp.2eaa360e57d261231907.jpg",
+    "static/media/zd.jpg": "/Odin-Memo/static/media/zd.7ee988d6ccce018b0631.jpg",
+    "static/media/zq.jpg": "/Odin-Memo/static/media/zq.8b3e519404a5a314169a.jpg",
+    "static/media/zm.jpg": "/Odin-Memo/static/media/zm.7e402302a10f730f354b.jpg",
+    "index.html": "/Odin-Memo/index.html",
+    "main.a2b9407b.css.map": "/Odin-Memo/static/css/main.a2b9407b.css.map",
+    "main.f369995d.js.map": "/Odin-Memo/static/js/main.f369995d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2b9407b.css",
+    "static/js/main.f369995d.js"
+  ]
+}
