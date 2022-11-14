@@ -14,8 +14,6 @@
     border-radius: 4px;
     box-shadow: 5px 5px rgba(0, 0, 0,0.5);
     background-color: white;
-    /* animation: name duration timing-function delay iteration-count direction fill-mode;
-    animation: image 0.5s linear  1 normal forwards; */
 }
 
 @keyframes image {
@@ -51,7 +49,7 @@
     flex-direction: column;
     gap: 10px;
     align-items: center;
-    animation: name duration timing-function delay iteration-count direction fill-mode;
+    
     animation: loss 0.8s linear 0s 1 normal forwards;
     
 
@@ -100,7 +98,7 @@
     flex-direction: column;
     gap: 10px;
     align-items: center;
-    animation: name duration timing-function delay iteration-count direction fill-mode;
+    
     animation: next 0.8s linear 0s 1 normal forwards;
 }
 .next>p{
