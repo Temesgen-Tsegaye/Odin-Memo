@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Odin-Memo/static/css/main.073c9b0a.css",
+    "main.js": "/Odin-Memo/static/js/main.f4f50241.js",
+    "static/js/787.e0826b76.chunk.js": "/Odin-Memo/static/js/787.e0826b76.chunk.js",
+    "static/media/logo.svg": "/Odin-Memo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Odin-Memo/index.html",
+    "main.073c9b0a.css.map": "/Odin-Memo/static/css/main.073c9b0a.css.map",
+    "main.f4f50241.js.map": "/Odin-Memo/static/js/main.f4f50241.js.map",
+    "787.e0826b76.chunk.js.map": "/Odin-Memo/static/js/787.e0826b76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4f50241.js"
+  ]
+}
